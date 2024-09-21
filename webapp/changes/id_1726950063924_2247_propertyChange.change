@@ -1,0 +1,41 @@
+{
+    "fileName": "id_1726950063924_2247_propertyChange",
+    "fileType": "change",
+    "changeType": "propertyChange",
+    "moduleName": "",
+    "reference": "br.com.dlacademy.zuicertificados",
+    "packageName": "",
+    "content": {
+        "property": "icon",
+        "newValue": "sap-icon://status-inactive"
+    },
+    "selector": {
+        "id": "br.com.dlacademy.zuicertificados::sap.suite.ui.generic.template.ObjectPage.view.Details::ZC_DLRAP_CERTIFPRODUCT--action::cds_zui_dlrap_certif.cds_zui_dlrap_certif_Entities::InactiveVersion",
+        "idIsLocal": false,
+        "type": "sap.uxap.ObjectPageHeaderActionButton"
+    },
+    "layer": "CUSTOMER_BASE",
+    "texts": {},
+    "namespace": "apps/br.com.dlacademy.zuicertificados/changes/",
+    "projectId": "",
+    "creation": 1726950063924,
+    "originalLanguage": "",
+    "support": {
+        "generator": "changeUtils: SAPFioriTools",
+        "service": "",
+        "user": "",
+        "sapui5Version": "1.124.5",
+        "sourceChangeFileName": "",
+        "compositeCommand": ""
+    },
+    "oDataInformation": {},
+    "dependentSelector": {},
+    "validAppVersions": {
+        "from": "0.0.1",
+        "to": "0.0.1",
+        "creation": "0.0.1"
+    },
+    "jsOnly": false,
+    "variantReference": "",
+    "appDescriptorChange": false
+}
